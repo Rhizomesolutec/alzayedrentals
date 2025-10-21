@@ -1564,3 +1564,7 @@
     background-color: #fcb900;
     color: #fff;
   }
+
+.sp-img{
+  filter: brightness(60%);
+}

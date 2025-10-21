@@ -2106,3 +2106,7 @@ section.our-courses {
       margin-top: 7px;
     }
   }
+
+.category{
+  text-transform: uppercase;
+}
