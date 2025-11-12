@@ -2110,3 +2110,22 @@ section.our-courses {
 .category{
   text-transform: uppercase;
 }
+.equipment-icon{
+  width: 80px;
+  height: 80px;
+  line-height: 50px;
+  /* background-color: #181714; */
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 5px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.equipments-card .card:hover{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+
+}
