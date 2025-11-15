@@ -19,6 +19,7 @@
 }
 .recent-work.card{
   border-radius: 10px !important;
+  
 }
 .recent-work .recent-work-vertical {
   background: #ffff;
@@ -27,22 +28,24 @@
   background-position: 0% 100%;
   transition: .5s;
   cursor: pointer;
+  
 }
 .recent-work .recent-work-vertical:hover {
   background-position: 0% 0%;
   transition: .5s;
 }
 .recent-work .recent-work-vertical:hover div.recent-work-content {
-  top: 50%;
+  top: 80%;
   margin-top: -2.5em;
   position: absolute;
 }
 .recent-work .recent-work-vertical:hover * {
-  color: white;
+  color: rgb(43, 41, 41);
   transition: .5s;
 }
 .equel-size img{
   aspect-ratio: 3/2 !important;
+  color: #fff !important;
 
 }
 .feature-work{
